@@ -1,2 +1,2 @@
-# michael-gibran.github.io
+# michael-gibran.github.com
 My Github Practice
